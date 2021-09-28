@@ -1,0 +1,45 @@
+.preto {
+    color: white;
+}
+
+.vermelho {
+    
+    color: rgb(216, 0, 0);
+}
+
+.verde {
+    
+    color: #08ca01;
+}
+
+.dstlvl0 {
+    color: white;
+}
+
+.dstlvl1 {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.dstlvl2 {
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.dstlvl3 {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.dstlvl4 {
+    background-color: maroon;
+    color: white;
+    font-weight: bold;
+    border: 1px solid black;
+}
